@@ -1,6 +1,6 @@
 ### Olá! Eu sou Alekssander Paris 👋
 - 🔭 ``Hoje estou procurando estágio na área de dados``
-- 🌱 ``Estudando Banco de Dados, Data Science, Engenharia, Python e SQL ``
+- 🌱 ``Estudando Banco de Dados, Data Science, Python e SQL ``
 - 😄 ``Pronouns: ele/dele``
 - 🏋️‍♂️ ``Hobby: Musculação``
 
