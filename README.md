@@ -13,9 +13,9 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Alek-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Alek-SQL" height="30" width="40" src="https://github.com/alekssanderparis/alekssanderparis/blob/main/database.png">
-  <img align="center" alt="Alek-MySQL" height="30" width="40" src="https://github.com/alekssanderparis/alekssanderparis/blob/main/mysql.png">
-  <img align="center" alt="Alek-PostgreSQL" height="30" width="40" src="https://github.com/alekssanderparis/alekssanderparis/blob/main/postgreSQL.png">
+  <img align="center" alt="Alek-SQL" height="30" width="40" src="https://github.com/alekssanderparis/alekssanderparis/blob/main/icones/database.png">
+  <img align="center" alt="Alek-MySQL" height="30" width="40" src="https://github.com/alekssanderparis/alekssanderparis/blob/main/icones/mysql.png">
+  <img align="center" alt="Alek-PostgreSQL" height="30" width="40" src="https://github.com/alekssanderparis/alekssanderparis/blob/main/icones/postgreSQL.png">
 </div>
 
 ##
